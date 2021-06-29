@@ -4,15 +4,15 @@ title: "Project: This is the Descriptive Title of the Example"
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
-author: RonDaisja Dunn
-github_url: https://github.com/cybertraining-dsc/su21-reu-378/edit/main/project/index.md
+author: Carrington Kerr
+github_url: https://github.com/cybertraining-dsc/su21-reu-379/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
 ---
 
-[![Check Report](https://github.com/cybertraining-dsc/su21-reu-378/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-378/actions)
-[![Status](https://github.com/cybertraining-dsc/su21-reu-378/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-378/actions)
+[![Check Report](https://github.com/cybertraining-dsc/su21-reu-379/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-379/actions)
+[![Status](https://github.com/cybertraining-dsc/su21-reu-379/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-379/actions)
 Status: draft, Type: Project
 
 
