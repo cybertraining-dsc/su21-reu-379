@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-RonDaisja Dunn, [su21-reu-378](https://github.com/cybertraining-dsc/su21-reu-378), [Edit](https://github.com/cybertraining-dsc/su21-reu-378/blob/main/project/index.md)
+Carrington Kerr, [su21-reu-379](https://github.com/cybertraining-dsc/su21-reu-379), [Edit](https://github.com/cybertraining-dsc/su21-reu-379/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
